@@ -1,0 +1,14 @@
+C:\Users\Francisco\source\repos\WinActivator X\WinActivator X\bin\Release\WinActivator X.exe.config
+C:\Users\Francisco\source\repos\WinActivator X\WinActivator X\bin\Release\WinActivator X.exe
+C:\Users\Francisco\source\repos\WinActivator X\WinActivator X\bin\Release\MetroFramework.Design.dll
+C:\Users\Francisco\source\repos\WinActivator X\WinActivator X\bin\Release\MetroFramework.dll
+C:\Users\Francisco\source\repos\WinActivator X\WinActivator X\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Francisco\source\repos\WinActivator X\WinActivator X\obj\Release\WinActivator X.csproj.AssemblyReference.cache
+C:\Users\Francisco\source\repos\WinActivator X\WinActivator X\obj\Release\WinActivator X.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco\source\repos\WinActivator X\WinActivator X\obj\Release\WinActivator_X.Common.RestartPrompt.resources
+C:\Users\Francisco\source\repos\WinActivator X\WinActivator X\obj\Release\WinActivator_X.MainWindow.resources
+C:\Users\Francisco\source\repos\WinActivator X\WinActivator X\obj\Release\WinActivator_X.Properties.Resources.resources
+C:\Users\Francisco\source\repos\WinActivator X\WinActivator X\obj\Release\WinActivator X.csproj.GenerateResource.cache
+C:\Users\Francisco\source\repos\WinActivator X\WinActivator X\obj\Release\WinActivator X.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\WinActivator X\WinActivator X\obj\Release\WinActivator X.csproj.CopyComplete
+C:\Users\Francisco\source\repos\WinActivator X\WinActivator X\obj\Release\WinActivator X.exe
